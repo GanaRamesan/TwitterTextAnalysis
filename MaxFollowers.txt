@@ -1,0 +1,22 @@
+The top 10 users who has the maximum followers: 
+
+1. Username: ABC7Chicago -> Number of Followers: 732025
+
+2. Username: KSLcom -> Number of Followers: 169095
+
+3. Username: DandC -> Number of Followers: 128744
+
+4. Username: globalissuesweb -> Number of Followers: 120579
+
+5. Username: KUTV2News -> Number of Followers: 103414
+
+6. Username: DeseretNews -> Number of Followers: 90705
+
+7. Username: Markpoetker -> Number of Followers: 68056
+
+8. Username: _SierraWhiskee -> Number of Followers: 60914
+
+9. Username: gr8tjude -> Number of Followers: 60263
+
+10. Username: abc4utah -> Number of Followers: 58579
+
